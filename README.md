@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1>
+<h1 align="center">hey there, how's it going 👋</h1>
 <h3 align="center">Graduating in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
 
 - 💻 Coding on [ASCII](http://asciiej.com.br/)
