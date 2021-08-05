@@ -3,7 +3,7 @@
 
 - 💻 Coding on [ASCII](http://asciiej.com.br/)
 
-- 📚 Studying **JavaScript, HTML, CSS, ReactJS, NextJS, MongoDB, Firebase**
+- 📚 Studying **JavaScript, HTML, CSS, ReactJS, NextJS, MongoDB, Firebase, MySQL**
 
 <!--
 **flaviozno/flaviozno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
