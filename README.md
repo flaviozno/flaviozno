@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hey there,</b> 𝘩𝘰𝘸'𝘴 𝘪𝘵 𝘨𝘰𝘪𝘯𝘨 👋</h1>
 
 ![coding-gif](https://tenor.com/bN65M.gif)
+<img src="https://tenor.com/bN65M.gif" width="300" height="300" alt="GIF"/>
 
 <h3 align="center">Graduating in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
 
