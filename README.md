@@ -1,12 +1,15 @@
 <h1 align="center"><b>Hey there,</b> 𝘩𝘰𝘸'𝘴 𝘪𝘵 𝘨𝘰𝘪𝘯𝘨 👋</h1>
-![coding](https://tenor.com/bN65M.gif)
+
+![](https://tenor.com/bN65M.gif)
+
 <h3 align="center">Graduating in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
 
-<h2 align="center">About Me</h2>
-<p>Flávio Vezono Filho, 21y</p>
-<p>Fazendo telas na [NDM](https://ndmadvogados.com.br/)</p>
+## About Me
+- Flávio Vezono Filho, 21y
+- Fazendo telas na [NDM](https://ndmadvogados.com.br/)
+- Barretos, SP 🤠
 
-<h2 align="center">Hard Skills</h2>
+<h2 align="left">Hard Skills</h2>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
