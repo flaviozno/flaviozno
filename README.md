@@ -7,6 +7,7 @@
 <h3 align="center">Graduating in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
 
 ## About Me
+
 - Flávio Vezono Filho, 21y
 - Fazendo telas na [NDM](https://ndmadvogados.com.br/)
 - Barretos, SP 🤠
@@ -24,14 +25,11 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/sequelize-1572B6?style=for-the-badge&logo=sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <div align="center">
   <a href="https://github.com/flaviozno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviozno&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-<div align="center"> 
-  <a href="https://instagram.com/flaviozno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/flaviozno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
