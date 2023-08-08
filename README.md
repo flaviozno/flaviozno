@@ -9,8 +9,7 @@
 ## About Me
 
 - Flávio Vezono Filho, 21y
-- Fazendo telas na [NDM](https://ndmadvogados.com.br/)
-- Barretos, SP 🤠
+- Uberlândia, MG
 
 <h2 align="left">Hard Skills</h2>
 <br>
