@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/dnMvLvp.gif">
 </div>
 
-<h3 align="center">Graduating in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
+<h3 align="center">Graduated in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
 
 ## About Me
 
