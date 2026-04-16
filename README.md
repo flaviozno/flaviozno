@@ -46,8 +46,8 @@ Computer Science graduate at Federal University of Uberlandia (UFU), Brazil. I f
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flaviozno&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=14b8a6&text_color=334155&rank_icon=github" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviozno&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=334155" alt="top langs" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flaviozno&theme=github" alt="github stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flaviozno&theme=github" alt="top langs" />
 </p>
 
 <p align="center">
