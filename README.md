@@ -1,61 +1,83 @@
-<h1 align="center"><b>Hey there,</b> 𝘩𝘰𝘸'𝘴 𝘪𝘵 𝘨𝘰𝘪𝘯𝘨 👋</h1>
-
-<div align="center">
-  <img src="https://i.imgur.com/dnMvLvp.gif">
-</div>
-
-<h3 align="center">Graduated in Computer Science at the Federal University of Uberlândia, Brazil.</h3>
-
-## About Me
-
-- Flávio Vezono Filho, 24y
-- Uberlândia, MG
-
-<h2 align="left">Hard Skills</h2>
-
-<h3 align="left">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,30:1e293b,60:0f766e,100:14b8a6&text=Fl%C3%A1vio%20Vezono%20Filho&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack&descAlignY=55&animation=fadeIn" alt="header" />
 </p>
 
-<h3 align="left">Frameworks and Libraries</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/sequelize-1572B6?style=for-the-badge&logo=sequelize&logoColor=white">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/typeorm-001F3F?style=for-the-badge&logo=typeorm&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=880&lines=Clean+architecture+and+real-world+delivery;Node.js+%2B+TypeScript+%2B+Cloud+engineering;Building+products+that+scale+with+clarity" alt="typing animation" />
 </p>
 
-<h3 align="left">Development Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-<h3 align="left">Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-</p>
-
-<h3 align="left">Cloud and DevOps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
-</p>
-
-<div align="center">
+  <a href="https://github.com/flaviozno?tab=followers">
+    <img src="https://img.shields.io/github/followers/flaviozno?style=flat-square&label=Followers&labelColor=0f172a&color=14b8a6" alt="followers" />
+  </a>
   <a href="https://github.com/flaviozno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviozno&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <img src="https://img.shields.io/github/stars/flaviozno?style=flat-square&label=Stars&labelColor=0f172a&color=14b8a6" alt="stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=flaviozno&style=flat-square&label=Profile%20Views&color=14b8a6" alt="views" />
+</p>
+
+## About
+
+<p>
+Computer Science graduate at Federal University of Uberlandia (UFU), Brazil. I focus on backend-heavy full stack products, API architecture, testing culture, and cloud-ready systems.
+</p>
+
+### Snapshot
+
+<!-- DYNAMIC:START -->
+- Age: 25 years
+- Last profile refresh: 2026-04-16 12:34 UTC
+<!-- DYNAMIC:END -->
+- Location: Uberlandia, MG - Brazil
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,nestjs,nodejs,laravel,jest,docker,aws,postgres,mongodb,git,github,vscode&perline=9" alt="skills" />
+</p>
+
+## Focus Areas
+
+- API design and service architecture
+- Performance and maintainable codebases
+- Automated tests and developer experience
+- Cloud infrastructure and deployment routines
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flaviozno&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=14b8a6&text_color=334155&rank_icon=github" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviozno&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=334155" alt="top langs" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=flaviozno&hide_border=true&background=FFFFFF00&ring=0f766e&fire=14b8a6&currStreakLabel=0f766e&currStreakNum=334155&sideNums=334155&dates=64748b&sideLabels=64748b" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flaviozno&area=true&hide_border=true&bg_color=ffffff00&line=0f766e&point=14b8a6&color=334155&title_color=0f766e" alt="activity graph" />
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/flaviozno">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/flaviozno">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="linkedin" />
+  </a>
+  <a href="mailto:flavio_contato@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=microsoft-outlook&logoColor=0ea5e9" alt="email" />
+  </a>
+  <a href="https://flavio.vezono.com/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=14b8a6" alt="portfolio" />
+  </a>
+  <a href="tel:+5517997122611">
+    <img src="https://img.shields.io/badge/Phone-%2B55%2017%2099712--2611-0f172a?style=for-the-badge&logo=whatsapp&logoColor=22c55e" alt="phone" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:14b8a6,100:0f172a" alt="footer" />
+</p>
