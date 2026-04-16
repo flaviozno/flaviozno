@@ -3,7 +3,7 @@ const path = require("path");
 
 const readmePath = path.join(process.cwd(), "README.md");
 
-const BIRTH_DATE_ISO = process.env.BIRTH_DATE_ISO || "2001-01-01";
+const BIRTH_DATE_ISO = process.env.BIRTH_DATE_ISO || "2000-12-08";
 
 function calculateAge(birthDateIso) {
   const birthDate = new Date(`${birthDateIso}T00:00:00Z`);

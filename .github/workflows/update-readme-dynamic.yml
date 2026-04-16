@@ -23,7 +23,7 @@ jobs:
 
       - name: Update dynamic section in README
         env:
-          BIRTH_DATE_ISO: "2001-01-01"
+          BIRTH_DATE_ISO: "2000-12-08"
         run: node scripts/update-readme-dynamic.js
 
       - name: Commit and push changes
